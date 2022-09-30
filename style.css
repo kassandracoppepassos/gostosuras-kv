@@ -1,6 +1,7 @@
 body{
-    background-color: #cccccc
+    background: #b87171;
 }
+
 
 p{
     text-align: center;
@@ -8,4 +9,8 @@ p{
 
 strong{
  color: red;
+}
+
+#Gostosuras{
+    width: 50%; align:center;
 }
