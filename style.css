@@ -1,7 +1,6 @@
 body{
-    background: #b87171;
+background: rgba(221, 120, 120, 0.8);
 }
-
 
 p{
     text-align: center;
@@ -13,4 +12,9 @@ strong{
 
 #Gostosuras{
     width: 50%; align:center;
+}
+
+.itens{
+    font-style: italic;
+
 }
